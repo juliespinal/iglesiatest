@@ -2,10 +2,10 @@
 	"PAGE_TITLE": "Iglesia MPJ",
 	"PAGE_DESCRIPTION": "Sitio testing de la iglesia Ministerio Profético Jireh",
 	"OFFER_TITLE": "Mi servicio maravilloso",
-	"OFFER_DESCRIPTION": "¿Te interesa este servicio? ¡No dejes escapar esta increíble oportunidad!",
-	"FORM_TITLE": "¿Te interesa este genial servicio?",
-	"FORM_DESCRIPTION": "Recibe ahora mismo un correo electrónico con más información:",
-	"CALL_TO_ACTION": "¡Sí, quiero saber más!",
+	"OFFER_DESCRIPTION": "Texto a editar con una pequeña descripción del plan de salvación y palabras de amor",
+	"FORM_TITLE": "Queremos saber de vos",
+	"FORM_DESCRIPTION": "Nos interesamos por las necesidades sociales y espirituales de las personas. ¡Contanos de vos!",
+	"CALL_TO_ACTION": "Enviar",
 	"FORM_RESPONSE_URL": "https://docs.google.com/forms/d/e/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/formResponse",
 	"NAME_INPUT": "entry.XXXXXXXXX"
 }
