@@ -22,8 +22,8 @@
 
 body {
 background-image: url("https://noelsolis.com/wp-content/uploads/2020/09/5514-congregation-hands-up-in-worship-gettyimages-.jpg");
-	background-attachment: fixed;
 	background-repeat: no-repeat;
+  background-size: cover
 	margin: 0;
 }
 
