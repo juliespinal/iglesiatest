@@ -37,10 +37,9 @@ body {
 }
 
 .offer__image {
-	max-height: 90px;
+	max-height: 20px;
 	margin-bottom: 50px;
   display: block;
-  margin: 0px auto;
 }
 
 .offer__title {
