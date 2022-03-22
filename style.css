@@ -15,6 +15,7 @@
 }
 
 .offer__description, .form__description, .form__legal {
+  text-align: center;
 	opacity: 0.8;
 	margin: 9pt 0;
 }
