@@ -10,7 +10,8 @@
     background-image: url(img/bg.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    z-index: 40
+    background-size: cover;
+    width: 200%;
 }
 .opacity {
   background: rgba(79,70,62,0.5);
