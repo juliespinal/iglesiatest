@@ -31,7 +31,7 @@
 		(function tick(){
 			
 			// Time left
-			left = Math.floor((options.timestamp - (new Date())) / 2000);
+			left = Math.floor((options.timestamp - (new Date())) / 3000);
 			
 			if(left < 0){
 				left = 0;
