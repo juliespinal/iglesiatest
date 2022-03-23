@@ -7,7 +7,6 @@
     padding: 0
 }
 .wrapper{
-    position: relative;
     background-image: url(img/bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
