@@ -5,14 +5,9 @@
 *{
     background-image: url(img/bg.jpg);
     background-size: cover;
+    background-attachment: fixed;
     margin: 0;
     padding: 0
-}
-.wrapper{
-    background-image: url(img/bg.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
 }
 .opacity {
   background: rgba(79,70,62,0.5);
